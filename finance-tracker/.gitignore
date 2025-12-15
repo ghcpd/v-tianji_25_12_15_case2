@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+*.vue.js
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
