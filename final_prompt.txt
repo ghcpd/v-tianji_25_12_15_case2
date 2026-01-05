@@ -1,1 +1,38 @@
 Prompt
+
+Problem Statement:
+I want a personal finance tracker web app where I can record income and expenses, categorize transactions, view monthly summaries, and analyze spending trends. Build a small, modern, visually polished, interactive Web UI project from scratch using Vue or React (your choice).
+
+Requirements:
+Create a complete runnable project from zero.
+
+Generate full test coverage, including unit tests and simple end-to-end (E2E) tests.
+
+All tests must be executed and pass successfully.
+
+Run the project to verify it boots and works as expected.
+
+If any step fails, debug, fix, and re-run until everything passes.
+
+Do not assume success—treat this as a real execution environment.
+
+Deliverables:
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install dependencies, run tests, and start the project
+
+Logs from running tests and launching the development server
+
+A short summary after a successful run
+
+Title:
+Personal Finance Tracker Web UI Generation & Full Test Execution
+
+Description:
+This task evaluates the model’s ability to design and implement a complete, frontend-only personal finance tracker application from scratch with a strong focus on clean architecture, modern UI/UX, and data visualization. The application should support recording income and expenses, categorizing transactions, and presenting clear monthly summaries and spending trends. The model must also demonstrate the ability to write, execute, and debug unit and end-to-end tests, iteratively resolve issues, and successfully launch the final application, following a real-world development workflow end to end.
